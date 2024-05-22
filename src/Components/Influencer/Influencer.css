@@ -1,0 +1,9 @@
+.influencer{
+    display:flex;
+    align-items: center;
+    gap:0.7rem;
+}
+
+.influencer-data{
+    line-height: 0.5rem;
+}
